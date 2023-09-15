@@ -27,6 +27,7 @@ const config: Config = {
         flipkart_blue: "#2874f0",
         flipkart_light: "#ffffff",
         flipkart_yellow: "#ff9f00",
+        flipkart_yellow2: "#f2de0f",
         flipkart_orange: "#fb641b",
         lightText: "#ccc",
       },
